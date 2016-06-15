@@ -1,0 +1,9 @@
+php library(framwork)
+
+pear(較古老)->ZENDFramwork(pear 2.0)、CAPTCHA
+
+google visualization
+
+ajax->xajax、jQuery、node.js
+
+用javascript 的post，只傳回表單需要回傳的值，而不是傳回整個網頁
